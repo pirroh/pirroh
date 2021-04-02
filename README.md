@@ -1,5 +1,7 @@
 ## 👋  &nbsp; Hi there, I'm Michele (pirroh) Catasta
-:man_teacher: &nbsp; **Instructor in Machine Learning and Data Science** @ *Stanford University*
+👨‍💻 &nbsp; **Principal Research Scientist** @ [Robust.AI](https://www.robust.ai)
+
+:man_teacher: &nbsp; Former **Research Scientist and Instructor in Machine Learning** @ *Stanford University*
 
 :telescope: &nbsp; **Expertise**: Machine Learning (on Graphs and Source Code), Data Science, Semantic Search, Human Computation
 
@@ -11,7 +13,15 @@
 [[Google Scholar]](https://scholar.google.com/citations?user=ZxfOSWMAAAAJ&hl=en&oi=ao)
 
 ## :bangbang: &nbsp; News
-[Sep 2020] [Open Graph Benchmark: Datasets for Machine Learning on Graphs](https://arxiv.org/abs/2005.00687) accepted at [NeurIPS 2020](https://neurips.cc) as a **spotlight paper**! 
+[Mar 2021] [Language-Agnostic Representation Learning of Source Code from Structure and Context](https://arxiv.org/pdf/2103.11318.pdf) (AKA Code Transformer) accepted at ICLR 2021! &nbsp;&nbsp;
+[[paper]](https://arxiv.org/pdf/2103.11318.pdf) -
+[[demo]](https://www.code-transformer.org) -
+[[code]](https://github.com/danielzuegner/code-transformer)
+
+[Sep 2020] [Open Graph Benchmark: Datasets for Machine Learning on Graphs](https://arxiv.org/abs/2005.00687) accepted at NeurIPS 2020 as a **spotlight paper**! &nbsp;&nbsp;
+[[paper]](https://arxiv.org/abs/2005.00687) -
+[[website]](https://ogb.stanford.edu) -
+[[code]](https://github.com/snap-stanford/ogb) 
 
 ## :flashlight: &nbsp; Highlights	
 :mortar_board: &nbsp; **Education**
@@ -33,6 +43,7 @@
 * At *Stanford University*:
   * [**CS224W: Machine Learning with Graphs**](https://cs224w.stanford.edu) -- Co-instructor together with Prof. Jure Leskovec
   * [**CS246: Mining Massive Data Sets**](https://cs246.stanford.edu) -- Co-instructor together with Prof. Jure Leskovec
+  * [**CS329S: Machine Learning Systems Design**](https://cs329s.stanford.edu) -- Advisor
   * [**CS341: Project in Mining Massive Data Sets**](https://cs341.stanford.edu) -- Instructor
 * At *EPFL*:
   * [**Applied Data Analysis**](https://ada.epfl.ch) -- Created and taught the first edition of the course
