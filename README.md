@@ -1,5 +1,5 @@
 ## 👋  &nbsp; Hi there, I'm Michele (pirroh) Catasta
-🤖 &nbsp; **AI & Data Science Consultant**
+👨‍💻 &nbsp; **AI & Data Science Consultant**
 
 :man_teacher: &nbsp; Former **Research Scientist and Instructor in Machine Learning** @ *Stanford University*
 
