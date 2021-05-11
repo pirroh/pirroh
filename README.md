@@ -1,5 +1,5 @@
 ## 👋  &nbsp; Hi there, I'm Michele (pirroh) Catasta
-🤖 &nbsp; **Data & ML** @ [Robust.AI](https://www.robust.ai)
+🤖 &nbsp; **AI & Data Science Consultant**
 
 :man_teacher: &nbsp; Former **Research Scientist and Instructor in Machine Learning** @ *Stanford University*
 
