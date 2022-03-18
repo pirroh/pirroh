@@ -1,5 +1,5 @@
 ## 👋  &nbsp; Hi there, I'm Michele (pirroh) Catasta
-👨‍💻 &nbsp; **AI Research Scientist** @ *X, the moonshot factory (formerly Google[x])*
+👨‍💻 &nbsp; **Head of Applied Research** @ *X, the moonshot factory (formerly Google[x])*
 
 :man_teacher: &nbsp; Former **Research Scientist and Instructor in Machine Learning** @ *Stanford University*
 
