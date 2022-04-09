@@ -13,12 +13,16 @@
 [[Google Scholar]](https://scholar.google.com/citations?user=ZxfOSWMAAAAJ&hl=en&oi=ao)
 
 ## :bangbang: &nbsp; News
+[Apr 2022] [PaLM: Scaling Language Modeling with Pathways](https://arxiv.org/pdf/2204.02311.pdf) has just been unveiled -- I worked on **PaLM-Coder**! &nbsp;&nbsp;
+[[paper]](https://arxiv.org/abs/2204.02311) -
+[[blog post]](https://ai.googleblog.com/2022/04/pathways-language-model-palm-scaling-to.html)
+
 [Mar 2021] [Language-Agnostic Representation Learning of Source Code from Structure and Context](https://arxiv.org/pdf/2103.11318.pdf) (AKA Code Transformer) accepted at ICLR 2021! &nbsp;&nbsp;
-[[paper]](https://arxiv.org/pdf/2103.11318.pdf) -
+[[paper]](https://arxiv.org/abs/2103.11318) -
 [[demo]](https://www.code-transformer.org) -
 [[code]](https://github.com/danielzuegner/code-transformer)
 
-[Sep 2020] [Open Graph Benchmark: Datasets for Machine Learning on Graphs](https://arxiv.org/abs/2005.00687) accepted at NeurIPS 2020 as a **spotlight paper**! &nbsp;&nbsp;
+[Sep 2020] [Open Graph Benchmark: Datasets for Machine Learning on Graphs](https://arxiv.org/pdf/2005.00687.pdf) accepted at NeurIPS 2020 as a **spotlight paper**! &nbsp;&nbsp;
 [[paper]](https://arxiv.org/abs/2005.00687) -
 [[website]](https://ogb.stanford.edu) -
 [[code]](https://github.com/snap-stanford/ogb) 
