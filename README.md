@@ -3,7 +3,7 @@
 
 :man_teacher: &nbsp; Former **Research Scientist and Instructor in Machine Learning** @ *Stanford University*
 
-:telescope: &nbsp; **Expertise**: Machine Learning (on Graphs and Source Code), Data Science, Semantic Search, Human Computation
+:telescope: &nbsp; **Expertise**: Machine Learning (on Source Code and Graphs), Data Science, Semantic Search, Human Computation
 
 :link:&nbsp;
 [[Personal page]](https://pirroh.fyi) - 
