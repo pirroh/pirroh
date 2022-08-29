@@ -1,9 +1,9 @@
 ## 👋  &nbsp; Hi there, I'm Michele (pirroh) Catasta
-👨‍💻 &nbsp; **Head of Applied Research** @ *X, the moonshot factory (formerly Google[x])*
+👨‍💻 &nbsp; **Head of Applied Research** @ *Google Labs* (working on AI applied to Source Code, Large Language Models)
 
 :man_teacher: &nbsp; Former **Research Scientist and Instructor in Machine Learning** @ *Stanford University*
 
-:telescope: &nbsp; **Expertise**: Machine Learning (on Source Code and Graphs), Data Science, Information Retrieval
+:telescope: &nbsp; **Expertise**: AI4Code, Machine Learning, Data Science, Information Retrieval
 
 :link:&nbsp;
 [[Personal page]](https://pirroh.fyi) - 
@@ -37,10 +37,12 @@
 * PhD in Computer Science at *EPFL*
 
 :man_technologist: &nbsp; **Experience**
+* **Head of Applied Research** at *X, the moonshot factory (formerly Google[x])*
+  * Worked on AI applied to Source Code, Large Language Models (including [PaLM-Coder](https://ai.googleblog.com/2022/04/pathways-language-model-palm-scaling-to.html)!)
 * **Research Scientist** at *Stanford University* and at *EPFL*
   * Contributed to several projects (funded by IARPA, DARPA, Samsung, Google, Amazon, ...) with a focus on Machine Learning (GNNs, Transformers, [Open Graph Benchmark](https://ogb.stanford.edu), etc.), Recommender Systems, Crowdsourcing, and Data Science.
 * **Intern** at *MIT Media Lab* (w/ [Prof. Alex 'Sandy' Pentland](https://www.media.mit.edu/people/sandy/overview/)), *Yahoo Research* (w/ [Prof. Ricardo Baeza-Yates](http://www.baeza.cl)), and *Google*.
-* **Founding member** of [Sindice.com](http://sindice.com), the largest Semantic Web Search Engine (back in the days). The core technologies developed for Sindice evolved into:
+* **Co-founder** of [Sindice.com](http://sindice.com), the largest Semantic Web Search Engine (back in the days). The core technologies developed for Sindice evolved into:
   * a top-level Apache project, [Any23](https://any23.apache.org/index.html)
   * several contributions to Hadoop, Lucene and Solr
   * [Siren](https://siren.io), an investigative intelligence platform which secured $15M+ in funding -- _kudos to my amazing ex-colleagues :+1:_
