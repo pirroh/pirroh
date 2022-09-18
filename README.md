@@ -13,7 +13,7 @@
 [[Google Scholar]](https://scholar.google.com/citations?user=ZxfOSWMAAAAJ&hl=en&oi=ao)
 
 ## :bangbang: &nbsp; News
-[Jul 2022] Invited talks on *AI meets Source Code: status quo and outlooks* -- [[EPFL]](https://memento.epfl.ch/event/ai-meets-source-code-status-quo-and-outlooks/), [[Synapse AI Symposium]](https://synapsesymposium.ai/) & more!
+[H2 2022] Invited talks on [AI meets Source Code: status quo and outlooks](https://www.youtube.com/watch?v=nF1NuTQ8aH4) -- [[video]](https://www.youtube.com/watch?v=nF1NuTQ8aH4) and events: [[EPFL]](https://memento.epfl.ch/event/ai-meets-source-code-status-quo-and-outlooks/), [[Synapse AI Symposium]](https://synapsesymposium.ai/), [[Berkeley AI Summit]](https://www.berkeleyhaasaisummit.com/) & more!
 
 [Apr 2022] [PaLM: Scaling Language Modeling with Pathways](https://arxiv.org/pdf/2204.02311.pdf) has just been unveiled -- I worked on **PaLM-Coder**! &nbsp;&nbsp;
 [[paper]](https://arxiv.org/abs/2204.02311) -
