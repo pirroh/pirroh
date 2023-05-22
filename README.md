@@ -1,11 +1,13 @@
 ## 👋  &nbsp; Hi there, I'm Michele (pirroh) Catasta
-👨‍💻 &nbsp; **Head of Applied Research** @ *Google Labs* (working on AI applied to Source Code, Large Language Models)
+👨‍💻 &nbsp; **VP of AI** at *Replit* (building the future of software development with AI)
 
-:man_teacher: &nbsp; Former **Research Scientist and Instructor in Machine Learning** @ *Stanford University*
+🔬 &nbsp; Former **Head of Applied Research** @ *Google Labs* (working on AI applied to Source Code, Large Language Models)
 
-:telescope: &nbsp; **Expertise**: AI4Code, Machine Learning, Data Science, Information Retrieval
+:man_teacher: &nbsp; Former **Research Scientist and Instructor in AI** @ *Stanford University*
 
-:link:&nbsp;
+🧐 &nbsp; **Expertise**: Large Language Models, AI4Code, Machine Learning, Information Retrieval, Data Science
+
+🌐&nbsp;
 [[Personal page]](https://pirroh.fyi) - 
 [[CV]](https://docs.google.com/viewer?url=https://github.com/pirroh/pirroh/raw/main/CV-MCatasta.pdf) -
 [[LinkedIn]](https://linkedin.com/in/pirroh) -
@@ -13,21 +15,13 @@
 [[Google Scholar]](https://scholar.google.com/citations?user=ZxfOSWMAAAAJ&hl=en&oi=ao)
 
 ## :bangbang: &nbsp; News
-[H2 2022] Invited talks on [AI meets Source Code: status quo and outlooks](https://www.youtube.com/watch?v=nF1NuTQ8aH4) -- [[video]](https://www.youtube.com/watch?v=nF1NuTQ8aH4) and events: [[EPFL]](https://memento.epfl.ch/event/ai-meets-source-code-status-quo-and-outlooks/), [[Synapse AI Symposium]](https://synapsesymposium.ai/), [[Berkeley AI Summit]](https://www.berkeleyhaasaisummit.com/) & more!
-
-[Apr 2022] [PaLM: Scaling Language Modeling with Pathways](https://arxiv.org/pdf/2204.02311.pdf) has just been unveiled -- I worked on **PaLM-Coder**! &nbsp;&nbsp;
-[[paper]](https://arxiv.org/abs/2204.02311) -
-[[blog post]](https://ai.googleblog.com/2022/04/pathways-language-model-palm-scaling-to.html)
-
-[Mar 2021] [Language-Agnostic Representation Learning of Source Code from Structure and Context](https://arxiv.org/pdf/2103.11318.pdf) (AKA Code Transformer) accepted at ICLR 2021! &nbsp;&nbsp;
-[[paper]](https://arxiv.org/abs/2103.11318) -
-[[demo]](https://www.code-transformer.org) -
-[[code]](https://github.com/danielzuegner/code-transformer)
-
-[Sep 2020] [Open Graph Benchmark: Datasets for Machine Learning on Graphs](https://arxiv.org/pdf/2005.00687.pdf) accepted at NeurIPS 2020 as a **spotlight paper**! &nbsp;&nbsp;
-[[paper]](https://arxiv.org/abs/2005.00687) -
-[[website]](https://ogb.stanford.edu) -
-[[code]](https://github.com/snap-stanford/ogb) 
+| When | What | Links |
+| --- | --- | --- |
+| May 2023 | [PaLM 2](https://ai.google/discover/palm2) announced at Google I/O -- I worked on code [pre-training and evaluations](https://arxiv.org/abs/2305.10403) | [[paper]](https://arxiv.org/abs/2305.10403) - [[blog post]](https://blog.google/technology/ai/google-palm-2-ai-large-language-model/) - [[website]](https://ai.google/discover/palm2) |
+| Apr 2023 | `replit-code-v1-3b` [announced at the Replit Developer Day](https://youtu.be/7TCqGslll-4?t=2988) and [released opensource](https://huggingface.co/replit/replit-code-v1-3b) | [[Twitter thread]](https://twitter.com/pirroh/status/1653586734641471490?s=20) - [[video]](https://youtu.be/7TCqGslll-4?t=2988) - [[HuggingFace model]](https://huggingface.co/replit/replit-code-v1-3b) - [[GitHub repo]](https://github.com/replit/ReplitLM) |
+| H2 2022 | Invited talks on [AI meets Source Code: status quo and outlooks](https://www.youtube.com/watch?v=nF1NuTQ8aH4) | [[video]](https://www.youtube.com/watch?v=nF1NuTQ8aH4) and events: [[EPFL]](https://memento.epfl.ch/event/ai-meets-source-code-status-quo-and-outlooks/), [[Synapse AI Symposium]](https://synapsesymposium.ai/), [[Berkeley AI Summit]](https://www.berkeleyhaasaisummit.com/) & more |
+| Apr 2022 | [PaLM: Scaling Language Modeling with Pathways](https://arxiv.org/pdf/2204.02311.pdf) submitted to arXiv -- I worked on PaLM-Coder | [[paper]](https://arxiv.org/abs/2204.02311) - [[blog post]](https://ai.googleblog.com/2022/04/pathways-language-model-palm-scaling-to.html) |
+| Mar 2021 | [Language-Agnostic Representation Learning of Source Code from Structure and Context](https://arxiv.org/pdf/2103.11318.pdf) (AKA Code Transformer) accepted at ICLR 2021 | [[paper]](https://arxiv.org/abs/2103.11318) - [[demo]](https://www.code-transformer.org) - [[code]](https://github.com/danielzuegner/code-transformer) |
 
 ## :flashlight: &nbsp; Highlights	
 :mortar_board: &nbsp; **Education**
@@ -38,9 +32,9 @@
 
 :man_technologist: &nbsp; **Experience**
 * **Head of Applied Research** at *X, the moonshot factory (formerly Google[x])*
-  * Worked on AI applied to Source Code, Large Language Models (including [PaLM-Coder](https://ai.googleblog.com/2022/04/pathways-language-model-palm-scaling-to.html)!)
+  * Worked on AI applied to Source Code, Large Language Models (including [PaLM-Coder](https://ai.googleblog.com/2022/04/pathways-language-model-palm-scaling-to.html))
 * **Research Scientist** at *Stanford University* and at *EPFL*
-  * Contributed to several projects (funded by IARPA, DARPA, Samsung, Google, Amazon, ...) with a focus on Machine Learning (GNNs, Transformers, [Open Graph Benchmark](https://ogb.stanford.edu), etc.), Recommender Systems, Crowdsourcing, and Data Science.
+  * Contributed to several projects (funded by IARPA, DARPA, Samsung, Google, Amazon, ...) with research on Deep Learning (GNNs, Transformers, [Open Graph Benchmark](https://ogb.stanford.edu), etc.), Recommender Systems, Crowdsourcing, and Data Science.
 * **Intern** at *MIT Media Lab* (w/ [Prof. Alex 'Sandy' Pentland](https://www.media.mit.edu/people/sandy/overview/)), *Yahoo Research* (w/ [Prof. Ricardo Baeza-Yates](http://www.baeza.cl)), and *Google*.
 * **Co-founder** of [Sindice.com](http://sindice.com), the largest Semantic Web Search Engine (back in the days). The core technologies developed for Sindice evolved into:
   * a top-level Apache project, [Any23](https://any23.apache.org/index.html)
