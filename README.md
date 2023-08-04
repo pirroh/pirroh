@@ -1,4 +1,4 @@
-## 👋  &nbsp; Hi there, I'm Michele (pirroh) Catasta
+## 👋  &nbsp; Hi there, I'm Michele Catasta
 👨‍💻 &nbsp; **VP of AI** at *Replit* (building the future of software development with AI)
 
 🔬 &nbsp; Former **Head of Applied Research** @ *Google Labs* (working on AI applied to Source Code, Large Language Models)
