@@ -31,8 +31,8 @@
 * PhD in Computer Science at *EPFL*
 
 :man_technologist: &nbsp; **Experience**
-* **Head of Applied Research** at *X, the moonshot factory (formerly Google[x])*
-  * Worked on AI applied to Source Code, Large Language Models (including [PaLM-Coder](https://ai.googleblog.com/2022/04/pathways-language-model-palm-scaling-to.html))
+* **Head of Applied Research** at *Google X & Google Labs*
+  * Worked on Large Language Models and AI4Code (including [PaLM-Coder](https://ai.googleblog.com/2022/04/pathways-language-model-palm-scaling-to.html))
 * **Research Scientist** at *Stanford University* and at *EPFL*
   * Contributed to several projects (funded by IARPA, DARPA, Samsung, Google, Amazon, ...) with research on Deep Learning (GNNs, Transformers, [Open Graph Benchmark](https://ogb.stanford.edu), etc.), Recommender Systems, Crowdsourcing, and Data Science.
 * **Intern** at *MIT Media Lab* (w/ [Prof. Alex 'Sandy' Pentland](https://www.media.mit.edu/people/sandy/overview/)), *Yahoo Research* (w/ [Prof. Ricardo Baeza-Yates](http://www.baeza.cl)), and *Google*.
