@@ -5,7 +5,7 @@
 
 :man_teacher: &nbsp; Former **Research Scientist and Instructor in AI** @ *Stanford University*
 
-🧐 &nbsp; **Expertise**: Large Language Models, AI4Code, Machine Learning, Information Retrieval, Data Science
+🧐 &nbsp; **Expertise**: Large Language Models, AI for Code, Machine Learning, Information Retrieval, Data Science
 
 🌐&nbsp;
 [[Personal page]](https://pirroh.fyi) - 
@@ -32,7 +32,7 @@
 
 :man_technologist: &nbsp; **Experience**
 * **Head of Applied Research** at *Google X & Google Labs*
-  * Worked on Large Language Models and AI4Code (including [PaLM-Coder](https://ai.googleblog.com/2022/04/pathways-language-model-palm-scaling-to.html))
+  * Worked on Large Language Models and AI for Code (including [PaLM](https://ai.googleblog.com/2022/04/pathways-language-model-palm-scaling-to.html) and [PaLM 2](https://blog.google/technology/ai/google-palm-2-ai-large-language-model/))
 * **Research Scientist** at *Stanford University* and at *EPFL*
   * Contributed to several projects (funded by IARPA, DARPA, Samsung, Google, Amazon, ...) with research on Deep Learning (GNNs, Transformers, [Open Graph Benchmark](https://ogb.stanford.edu), etc.), Recommender Systems, Crowdsourcing, and Data Science.
 * **Intern** at *MIT Media Lab* (w/ [Prof. Alex 'Sandy' Pentland](https://www.media.mit.edu/people/sandy/overview/)), *Yahoo Research* (w/ [Prof. Ricardo Baeza-Yates](http://www.baeza.cl)), and *Google*.
