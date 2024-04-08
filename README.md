@@ -50,4 +50,4 @@
 * At *EPFL*:
   * [**Applied Data Analysis**](https://ada.epfl.ch) -- Created and taught the first edition of the course
     * ADA is now taught by my friend and research collaborator [Prof. Robert West](https://dlab.epfl.ch/people/west/) (head of the [Data Science Lab](https://dlab.epfl.ch)), who masterfully improved the course in several areas
-    * 2nd largest course offered by the CS department at EPFL, recently grown to ~400 students -- _kudos to Bob :+1:_
+    * largest course offered by the CS department at EPFL, recently grown to 600+ students -- _kudos to Bob :+1:_
