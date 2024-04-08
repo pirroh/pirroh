@@ -11,14 +11,14 @@
 [[Personal page]](https://pirroh.fyi) - 
 [[CV]](https://docs.google.com/viewer?url=https://github.com/pirroh/pirroh/raw/main/CV-MCatasta.pdf) -
 [[LinkedIn]](https://linkedin.com/in/pirroh) -
-[[Twitter]](https://twitter.com/pirroh) -
+[[X]](https://x.com/pirroh) -
 [[Google Scholar]](https://scholar.google.com/citations?user=ZxfOSWMAAAAJ&hl=en&oi=ao)
 
 ## :bangbang: &nbsp; News
 | When | What | Links |
 | --- | --- | --- |
 | May 2023 | [PaLM 2](https://ai.google/discover/palm2) announced at Google I/O -- I worked on code [pre-training and evaluations](https://arxiv.org/abs/2305.10403) | [[paper]](https://arxiv.org/abs/2305.10403) - [[blog post]](https://blog.google/technology/ai/google-palm-2-ai-large-language-model/) - [[website]](https://ai.google/discover/palm2) |
-| Apr 2023 | `replit-code-v1-3b` [announced at the Replit Developer Day](https://youtu.be/7TCqGslll-4?t=2988) and [released opensource](https://huggingface.co/replit/replit-code-v1-3b) | [[Twitter thread]](https://twitter.com/pirroh/status/1653586734641471490?s=20) - [[video]](https://youtu.be/7TCqGslll-4?t=2988) - [[HuggingFace model]](https://huggingface.co/replit/replit-code-v1-3b) - [[GitHub repo]](https://github.com/replit/ReplitLM) |
+| Apr 2023 | `replit-code-v1-3b` [announced at the Replit Developer Day](https://youtu.be/7TCqGslll-4?t=2988) and [released opensource](https://huggingface.co/replit/replit-code-v1-3b) | [[X thread]](https://x.com/pirroh/status/1653586734641471490?s=20) - [[video]](https://youtu.be/7TCqGslll-4?t=2988) - [[HuggingFace model]](https://huggingface.co/replit/replit-code-v1-3b) - [[GitHub repo]](https://github.com/replit/ReplitLM) |
 | H2 2022 | Invited talks on [AI meets Source Code: status quo and outlooks](https://www.youtube.com/watch?v=nF1NuTQ8aH4) | [[video]](https://www.youtube.com/watch?v=nF1NuTQ8aH4) and events: [[EPFL]](https://memento.epfl.ch/event/ai-meets-source-code-status-quo-and-outlooks/), [[Synapse AI Symposium]](https://synapsesymposium.ai/), [[Berkeley AI Summit]](https://www.berkeleyhaasaisummit.com/) & more |
 | Apr 2022 | [PaLM: Scaling Language Modeling with Pathways](https://arxiv.org/pdf/2204.02311.pdf) submitted to arXiv -- I worked on PaLM-Coder | [[paper]](https://arxiv.org/abs/2204.02311) - [[blog post]](https://ai.googleblog.com/2022/04/pathways-language-model-palm-scaling-to.html) |
 | Mar 2021 | [Language-Agnostic Representation Learning of Source Code from Structure and Context](https://arxiv.org/pdf/2103.11318.pdf) (AKA Code Transformer) accepted at ICLR 2021 | [[paper]](https://arxiv.org/abs/2103.11318) - [[demo]](https://www.code-transformer.org) - [[code]](https://github.com/danielzuegner/code-transformer) |
