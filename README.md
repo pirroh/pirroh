@@ -1,11 +1,11 @@
-## 👋  &nbsp; Hi there, I'm Michele Catasta
-👨‍💻 &nbsp; **VP of AI** at *Replit* (building the future of software development with AI)
+## 👋  &nbsp; Ciao, I'm Michele! <img align="right" src="https://komarev.com/ghpvc/?username=pirroh" />
+👨‍💻 &nbsp; **President** of [*Replit*](https://replit.com) (former VP of AI)
 
-🔬 &nbsp; Former **Head of Applied Research** @ *Google Labs* (working on AI applied to Source Code, Large Language Models)
+🔬 &nbsp; Former **Head of Applied Research** @ *Google X & Google Labs* (working on LLMs for Code Generation)
 
 :man_teacher: &nbsp; Former **Research Scientist and Instructor in AI** @ *Stanford University*
 
-🧐 &nbsp; **Expertise**: Large Language Models, AI for Code, Machine Learning, Information Retrieval, Data Science
+🧐 &nbsp; **Expertise**: Large Language Models, Agents, AI for Code, Machine Learning, Information Retrieval
 
 🌐&nbsp;
 [[Personal page]](https://pirroh.fyi) - 
@@ -37,9 +37,10 @@
 
 :man_technologist: &nbsp; **Experience**
 * **Head of Applied Research** at *Google X & Google Labs*
-  * Worked on Large Language Models and AI for Code (including [PaLM](https://ai.googleblog.com/2022/04/pathways-language-model-palm-scaling-to.html) and [PaLM 2](https://blog.google/technology/ai/google-palm-2-ai-large-language-model/))
+  * Worked on LLMs and AI for Code (including [PaLM](https://ai.googleblog.com/2022/04/pathways-language-model-palm-scaling-to.html) and [PaLM 2](https://blog.google/technology/ai/google-palm-2-ai-large-language-model/))
+  * Designed the [Google AI4Code](https://www.kaggle.com/competitions/AI4Code) Kaggle challenge
 * **Research Scientist** at *Stanford University* and at *EPFL*
-  * Contributed to several projects (funded by IARPA, DARPA, Samsung, Google, Amazon, ...) with research on Deep Learning (GNNs, Transformers, [Open Graph Benchmark](https://ogb.stanford.edu), etc.), Recommender Systems, Crowdsourcing, and Data Science.
+  * Contributed to several projects (funded by IARPA, DARPA, Samsung, Google, Amazon, ...) with research on Deep Learning (GNNs, Transformers, [Open Graph Benchmark](https://ogb.stanford.edu), etc.), Recommender Systems, and Crowdsourcing.
 * **Intern** at *MIT Media Lab* (w/ [Prof. Alex 'Sandy' Pentland](https://www.media.mit.edu/people/sandy/overview/)), *Yahoo Research* (w/ [Prof. Ricardo Baeza-Yates](http://www.baeza.cl)), and *Google*.
 * **Co-founder** of [Sindice.com](http://sindice.com), the largest Semantic Web Search Engine (back in the days). The core technologies developed for Sindice evolved into:
   * a top-level Apache project, [Any23](https://any23.apache.org/index.html)
@@ -54,5 +55,5 @@
   * [**CS341: Project in Mining Massive Data Sets**](https://cs341.stanford.edu) -- Instructor
 * At *EPFL*:
   * [**Applied Data Analysis**](https://ada.epfl.ch) -- Created and taught the first edition of the course
-    * ADA is now taught by my friend and research collaborator [Prof. Robert West](https://dlab.epfl.ch/people/west/) (head of the [Data Science Lab](https://dlab.epfl.ch)), who masterfully improved the course in several areas
+    * ADA is now taught by my friend and research collaborator [Prof. Robert West](https://dlab.epfl.ch/people/west/) (head of the [Data Science Lab](https://dlab.epfl.ch)), who expanded the course in several areas
     * largest course offered by the CS department at EPFL, recently grown to 600+ students -- _kudos to Bob :+1:_
