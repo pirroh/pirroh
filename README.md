@@ -1,5 +1,5 @@
 ## 👋  &nbsp; Ciao, I'm Michele! <img align="right" src="https://komarev.com/ghpvc/?username=pirroh" />
-👨‍💻 &nbsp; **President** of [*Replit*](https://replit.com) (former VP of AI)
+👨‍💻 &nbsp; **President & Head of AI** @ [*Replit*](https://replit.com)
 
 🔬 &nbsp; Former **Head of Applied Research** @ *Google X & Google Labs* (working on LLMs for Code Generation)
 
