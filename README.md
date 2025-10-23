@@ -17,6 +17,7 @@
 ## :bangbang: &nbsp; News
 | When | What | Links |
 | --- | --- | --- |
+| Sep 2025 | [Replit Agent 3](https://replit.com/agent3) launched to the public -- I led the project | [[video]](https://www.youtube.com/watch?v=nr6qrQTv7QI) - [[blog post]](https://blog.replit.com/introducing-agent-3-our-most-autonomous-agent-yet) |
 | Mar 2025 | [Vibe Coding 101 with Replit](https://www.deeplearning.ai/short-courses/vibe-coding-101-with-replit/) released on the DeepLearning.AI platform -- I was one of the instructors, together with [Andrew Ng](https://en.wikipedia.org/wiki/Andrew_Ng) and [Matt Palmer](https://mattpalmer.io/) | [[enroll in the course]](https://www.deeplearning.ai/short-courses/vibe-coding-101-with-replit/) - [[my takeaways on X]](https://x.com/pirroh/status/1907482383928160606) - [[Andrew Ng's post on LinkedIn]](https://www.linkedin.com/posts/andrewyng_new-short-course-vibe-coding-101-with-replit-activity-7310695523533885440-do3O/) |
 | Feb 2025 | [Replit Agent v2](https://blog.replit.com/agent-v2) launched to the public -- I led the project | [[X thread]](https://x.com/pirroh/status/1894434712623747294) - [[video]](https://www.youtube.com/watch?v=1IQUY2QXpjg) |
 | Feb 2025 | I gave a guest lecture on _Coding Agents_ at [Stanford - CS329A](https://cs329a.stanford.edu/) | [[video]](https://www.youtube.com/watch?v=a0iOk3xrHNc) - [[slides]](https://drive.google.com/file/d/1wYlgnowwZaSAujWRzj5xzEiqy4745elL/view?usp=sharing) - [[X thread]](https://x.com/pirroh/status/1897761902937489467) |
